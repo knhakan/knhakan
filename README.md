@@ -1,14 +1,10 @@
-### Hi there 👋
 
-<!--
-**knhakan/knhakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-💡  I like to explore new technologies and develop software solutions and quick hacks.
+💡  I like to explore new technologies and develop software solutions and quick hacks.\
+🌱 I’m currently learning mobile app development.\
 📫 You can shoot me an email at knhakan@gmail.com! 
 
--->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -29,7 +25,8 @@ Here are some ideas to get you started:
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <a href="https://www.linkedin.com/in/kaan-hakan/"><img src="https://img.shields.io/badge/-Kaan%20Hakan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+[![Gmail Badge](https://img.shields.io/badge/-knhakan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:knhakan@gmail.com)](mailto:knhakan@gmail.com)
